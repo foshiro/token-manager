@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/token-manager/static/css/main.afd4f80d.chunk.css",
+    "main.js": "/token-manager/static/js/main.c712e4bf.chunk.js",
+    "main.js.map": "/token-manager/static/js/main.c712e4bf.chunk.js.map",
+    "runtime-main.js": "/token-manager/static/js/runtime-main.b0a1dbdc.js",
+    "runtime-main.js.map": "/token-manager/static/js/runtime-main.b0a1dbdc.js.map",
+    "static/css/2.de3c0e98.chunk.css": "/token-manager/static/css/2.de3c0e98.chunk.css",
+    "static/js/2.b8d6269b.chunk.js": "/token-manager/static/js/2.b8d6269b.chunk.js",
+    "static/js/2.b8d6269b.chunk.js.map": "/token-manager/static/js/2.b8d6269b.chunk.js.map",
+    "index.html": "/token-manager/index.html",
+    "static/css/2.de3c0e98.chunk.css.map": "/token-manager/static/css/2.de3c0e98.chunk.css.map",
+    "static/css/main.afd4f80d.chunk.css.map": "/token-manager/static/css/main.afd4f80d.chunk.css.map",
+    "static/js/2.b8d6269b.chunk.js.LICENSE.txt": "/token-manager/static/js/2.b8d6269b.chunk.js.LICENSE.txt",
+    "static/media/styles.css": "/token-manager/static/media/faff92145777a3cbaf8e7367b4807987.425399f8.woff",
+    "static/media/semantic.min.css": "/token-manager/static/media/outline-icons.ddae9b1b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b0a1dbdc.js",
+    "static/css/2.de3c0e98.chunk.css",
+    "static/js/2.b8d6269b.chunk.js",
+    "static/css/main.afd4f80d.chunk.css",
+    "static/js/main.c712e4bf.chunk.js"
+  ]
+}
